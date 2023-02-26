@@ -1,0 +1,36 @@
+//High-Level Design:
+
+The high-level design of the file access permission project involves defining the overall architecture of the software system. Here are the key components of the HLD for the project:
+
+System architecture:
+The system architecture will define the overall structure of the software system. It will identify the different components that make up the system and how they interact with each other. The system architecture will also define the different layers of the software system.
+
+Security architecture:
+The security architecture will define the different security measures that will be implemented to ensure that the system is secure. This will include access control mechanisms, encryption, and other security features.
+
+Data architecture:
+The data architecture will define how the data will be stored, managed, and accessed. This will include the different types of data that will be used in the system, such as user profiles, access control lists (ACLs), and audit logs.
+
+User interface (UI) architecture:
+The UI architecture will define how the user interface will be designed and implemented. This will include the different screens, menus, and forms that users will interact with.
+
+
+
+//Low-Level Design:
+
+The low-level design of the file access permission project involves defining the detailed design of the different components of the software system. Here are the key components of the LLD for the project:
+
+Class diagram:
+The class diagram will define the different classes that will be used in the system, including data classes and function classes. The class diagram will show the relationships between the different classes and how they interact with each other.
+
+Database schema:
+The database schema will define how the data will be organized and stored in the database. This will include the different tables, columns, and relationships between tables.
+
+User interface design:
+The user interface design will define how the screens, menus, and forms will be designed and implemented. This will include the layout, colors, and fonts that will be used.
+
+Algorithm design:
+The algorithm design will define how the different functions will be implemented. This will include the different algorithms that will be used for access control, encryption, and other security features.
+
+
+Overall, the HLD and LLD for the file access permission project will provide a comprehensive design of the software system that will ensure that the system is secure, easy to use, and efficient.
