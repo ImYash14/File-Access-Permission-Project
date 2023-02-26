@@ -1,3 +1,9 @@
+/*In the above code, we have created a few classes that represent the various file access permissions like read, write, and execute. These classes inherit from a base class called FileAccessPermission which defines a virtual function isAllowed() that must be implemented in the derived classes.
+We also have a class called File that represents a file and a class called FileAccessManager that manages the permissions for a file. The FileAccessManager class contains instances of the various access permission classes and allows us to check if a file has read/write/execute access by calling the appropriate function.
+In the main() function, we need to use Windows APIs to get the file name from user input and create a File object with that name. We then create a FileAccessManager object with the File object and check if the various access permissions are allowed for the file.
+*/
+
+
 #include <iostream>
 #include <windows.h>
 
